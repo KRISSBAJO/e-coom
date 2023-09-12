@@ -1,0 +1,296 @@
+{
+    "products": [
+      {
+        "id": 10001,
+        "name": "Turbo Thrust 2024",
+        "overview": "The Turbo Thrust 2024 is a modern marvel, fusing elegance with raw power. With aerodynamic curves and a sleek design, this vehicle is a head-turner.",
+        "long_description": "Dive deep into the world of Turbo Thrust 2024, where luxury meets performance. Every element, from its advanced suspension system to the finely crafted leather seats, has been designed to give you an unparalleled driving experience. This car isn't just about speed, but a holistic approach to driving, ensuring safety, comfort, and sheer pleasure with every ride.",
+        "price": 29,
+        "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car1.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 5,
+        "best_seller": true
+      },
+      {
+        "id": 10002,
+        "name": "Night Cruiser X9 boasts",
+        "overview": "The Night Cruiser X9 boasts unmatched nocturnal capabilities, ensuring a smooth ride even on the darkest nights.",
+        "long_description": "Introducing Night Cruiser X9, the future of nighttime driving. Engineered with specialized night vision dashboard cameras and adaptive headlights, it promises safety without compromising on performance. The interiors come equipped with ambient lighting, providing a serene environment, making every night drive a memorable one.",
+        "price": 19,
+        "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car2.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 2,
+
+        "best_seller": false
+      },
+      {
+        "id": 10003,
+        "name": "EcoDrive Z2",
+        "overview": "The EcoDrive Z2, our latest environmentally friendly release, offers a sustainable yet powerful driving solution.",
+        "long_description": "Explore the wonders of sustainable driving with the EcoDrive Z2. With a state-of-the-art electric engine and regenerative braking, it's a testament to how green technologies can work seamlessly with advanced vehicular design, offering both power and a minimal carbon footprint.",
+        "price": 29,
+        "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car3.png",
+        "rating": 3,
+        "in_stock": true,
+        "size": 1,
+        "best_seller": false
+      },
+      {
+        "id": 10004,
+        "name": "Family Voyager",
+        "overview": "The Family Voyager is spacious and safe, perfect for memorable family adventures.",
+        "long_description": "Safety, comfort, and space converge in the Family Voyager. With multi-zone climate control, expansive legroom, and advanced safety features, it's the ideal choice for families on the go, ensuring every journey is enjoyed in utmost comfort.",
+        "price": 99,
+        "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car4.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 7,
+
+        "best_seller": true
+      },
+      {
+        "id": 10005,
+        "name": " Desert Dominator 2023",
+        "overview": "The Desert Dominator 2023 is tailor-made for off-road adventures, conquering any terrain with ease.",
+        "long_description": "Experience the thrill of off-roading with the Desert Dominator 2023. With its robust tires, advanced suspension system, and a durable body, this beast is built to tackle the harshest terrains, be it sandy dunes or rocky trails.",
+        "price": 19,
+        "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car5.png",
+        "rating": 3,
+        "in_stock": true,
+        "size": 3,
+
+        "best_seller": false
+      },
+      {
+        "id": 10006,
+        "name": "City Sprinter",
+        "overview": "The City Sprinter is compact and agile, designed for urban landscapes and tight spaces.",
+        "long_description": "Navigate city streets like never before with the City Sprinter. Its compact design, combined with advanced maneuvering capabilities, ensures that you can weave through traffic and tight parking spots with ease, making it the ultimate urban driving companion.",
+        "price": 99,
+        "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car6.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 10,
+
+        "best_seller": false
+      },
+      {
+        "id": 10007,
+        "name": "Classic Revival",
+        "overview": "The Classic Revival is a tribute to vintage cars, offering a nostalgic experience with modern-day technology.",
+        "long_description": "The Classic Revival takes you back in time, combining the charm of vintage cars with the advancements of modern technology. With its retro design and cutting-edge features, it's the best of both worlds.",
+        "price": 19,
+        "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car7.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 2,
+
+        "best_seller": false
+      },
+      {
+        "id": 10008,
+        "name": "Oceanic V7",
+        "overview": "The Oceanic V7, with its convertible design, is perfect for those breezy coastal drives.",
+        "long_description": "Embrace the charm of coastal roads with the Oceanic V7. Its convertible design allows you to feel the ocean breeze as you cruise along the coast. Enhanced with rust-resistant bodywork, it's perfect for those who live for the sea.",
+        "price": 29,
+        "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car8.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+
+        "best_seller": true
+      },
+      {
+        "id": 10009,
+        "name": "Mountain Mover 2025",
+        "overview": "The Mountain Mover 2025, as the name suggests, offers unrivaled performance in hilly terrains.",
+        "long_description": "Tackle the mightiest of mountains with the Mountain Mover 2025. Designed with powerful torque and adaptive 4-wheel drive, this vehicle offers stability and power, making steep slopes and rugged terrains feel like a walk in the park.",
+        "price": 29,
+        "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car9.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+
+        "best_seller": false
+      },
+      {
+        "id": 10010,
+        "name": "Future Glide 2026",
+        "overview": "The Future Glide 2026 redefines luxury with its autonomous features and state-of-the-art entertainment system.",
+        "long_description": "Step into the Future Glide 2026, where every journey becomes a luxurious experience. With self-driving capabilities and an in-built entertainment system offering cinema-like experience, sit back, relax, and enjoy the ride.",
+        "price": 19,
+        "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car10.png",
+        "rating": 4,
+        "in_stock": true,
+        "size": 1,
+
+        "best_seller": false
+      },
+      {
+        "id": 10011,
+        "name": "Skyline Racer",
+        "overview": "The Skyline Racer is all about altitude, designed for those who like to touch the sky.",
+        "long_description": "Lift your spirits with the Skyline Racer, a vehicle that merges aviation aesthetics with ground-breaking automotive design. From its wing-like spoilers to the turbine-inspired wheels, it's built for those who always aim high.",
+        "price": 29,
+        "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/jeep1.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": true
+      },
+      {
+        "id": 10012,
+        "name": "Urbanite Z1 ",
+        "overview": "The Urbanite Z1 is the metropolitan's dream - sleek, efficient, and eco-friendly.",
+        "long_description": "For those city-dwellers who yearn for green, the Urbanite Z1 offers an eco-friendly solution without compromising on style. The electric heart of this beauty promises zero emissions, ensuring you leave only footprints, not exhaust.",
+        "price": 9,
+        "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/jeep2.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 1,
+        "best_seller": false
+      },
+      {
+        "id": 10013,
+        "name": "Adventure Seeker Pro",
+        "overview": "The Adventure Seeker Pro is for the bold, built to tackle the most challenging terrains.",
+        "long_description": "When adventure calls, the Adventure Seeker Pro answers. With its rugged design, all-terrain tires, and adaptive suspension, it promises to take you places others can't.",
+        "price": 19,
+        "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/jeep3.png",
+        "rating": 4,
+        "in_stock": false,
+        "size": 3,
+        "best_seller": false
+      },
+      {
+        "id": 10014,
+        "name": "Adventure Seeker",
+        "overview": "The Adventure Seeker Pro is for the bold, built to tackle the most challenging terrains.",
+        "long_description": "When adventure calls, the Adventure Seeker Pro answers. With its rugged design, all-terrain tires, and adaptive suspension, it promises to take you places others can't.",
+        "price": 19,
+        "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/jeep4.png",
+        "rating": 4,
+        "in_stock": false,
+        "size": 3,
+        "best_seller": false
+      },
+      {
+        "id": 10015,
+        "name": "Silhouette Shadow",
+        "overview": "The Silhouette Shadow is an elegant blend of aesthetics and performance, designed for the discerning driver.",
+        "long_description": "With its graceful curves and powerful engine, the Silhouette Shadow balances beauty and brawn perfectly. A car that's not just about reaching the destination, but enjoying every twist and turn along the way.",
+        "price": 9,
+        "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/jeep5.png",
+        "rating": 2,
+        "in_stock": false,
+        "size": 5,
+        "best_seller": false
+      }
+    ],
+    "featured_products": [
+      {
+        "id": 10012,
+        "name": "EcoTrailblazer 2026",
+        "overview": "The EcoTrailblazer 2026 leads the way in sustainable driving, setting new standards in eco-motoring.",
+        "long_description": "Join the green revolution with the EcoTrailblazer 2026. Harnessing solar power and innovative battery technology, it offers a clean drive without sacrificing on performance.",
+        "price": 99,
+        "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/jeep2.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 7,
+        "best_seller": true
+      },
+      {
+        "id": 10006,
+        "name": "Sonic Boom",
+        "overview": "The Sonic Boom is all about speed, taking automotive performance to supersonic levels. Unimaginable!!",
+        "long_description": "Experience a rush like no other with the Sonic Boom. Engineered for those with a need for speed, it offers blistering acceleration and top speeds that are simply unparalleled.",
+        "price": 99,
+        "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car6.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 10,
+        "best_seller": false
+      },
+      {
+        "id": 10008,
+        "name": "Vintage Voyager 2030",
+        "overview": "The Vintage Voyager pays homage to classic designs, celebrating automotive history with a modern twist.",
+        "long_description": "Step back in time with the Vintage Voyager. Merging timeless aesthetics with contemporary technology, it's a car that celebrates where we've come from, while looking to the future.",
+        "price": 29,
+        "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/car8.png",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": true
+      }
+    ],
+    "orders": [
+      {
+        "cartList": [
+          {
+            "id": 10001,
+            "name": "Space Cruiser Z9",
+            "overview": "The Space Cruiser Z9, inspired by interstellar travel, is futuristic in every sense.",
+        "long_description": "Get ready to embark on a journey like no other with the Space Cruiser Z9. With features inspired by space exploration, it promises a driving experience that's truly out of this world.",
+            "price": 29,
+            "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+            "image_local": "/assets/images/jeep1.png",
+            "rating": 5,
+            "in_stock": true,
+            "size": 5,
+            "best_seller": true
+          },
+          {
+            "id": 10008,
+            "name": "GreenLeaf S2",
+            "overview": "The GreenLeaf S2 is nature's ally, a testament to sustainable engineering and green innovations.",
+            "long_description": "Drive with a clear conscience with the GreenLeaf S2. Built using sustainable materials and boasting a zero-emission engine, it's a car that truly loves our planet.",
+            "price": 29,
+            "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+            "image_local": "/assets/images/car5.png",
+            "rating": 5,
+            "in_stock": true,
+            "size": 3,
+            "best_seller": true
+          }
+        ],
+        "amount_paid": 58,
+        "quantity": 2,
+        "user": {
+          "name": "Chris Bajo",
+          "email": "kriss@example.com",
+          "id": 1
+        },
+        "id": 1
+      }
+    ],
+    "users": [
+      {
+        "email": "krissbajo@example.com",
+        "password": "$2a$10$K9aEH3/VDb2QU/EsjrHGJO7X5JxCcg0bMAnBtyT3kBW9FL7FnnygO",
+        "name": "Christopher  Adebajo",
+        "id": 1
+      }
+    ]
+  }
